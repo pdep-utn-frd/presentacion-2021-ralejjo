@@ -1,4 +1,5 @@
 ## Presentación para paradigmas de la programación
+# Alejo Redondo
 # Algunas cosas sobre mi
 - Vivo en Campana
 - Tengo 20 años
