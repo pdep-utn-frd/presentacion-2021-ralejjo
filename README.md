@@ -12,6 +12,7 @@
 - Sobre música, los generos que mas me gustan son el rock y el punk
 - La última pelicula que vi y me encanto fue Legitimo Rey
 - ![legitimorey](https://www.cinescondite.com/wp-content/uploads/2018/11/critica-outlaw-king1.jpg)
+- No tengo ninguna mascota
 
 
 - Por ahora eso es todo, creo
